@@ -36,8 +36,8 @@ As you work on this goal, consider these questions:
 
 _Do not remove these specs - they are required for all goals_.
 
-- [ ] External resources used are properly cited.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [x] External resources used are properly cited.
+- [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ---
 
