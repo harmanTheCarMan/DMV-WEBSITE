@@ -24,7 +24,7 @@ As you work on this goal, consider these questions:
 
 ## Specifications
 
-- [ ] Site has at least 2 pages.
+- [x] Site has at least 2 pages.
 - [x] Site is _not_ published on the web\*.
 - [x] Site can be viewed locally on a browser by opening its `index.html` file.
 - [x] All links work correctly (i.e. no broken links).
