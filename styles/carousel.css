@@ -1,0 +1,25 @@
+#carousel ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#carousel li {
+  display: none;
+}
+
+#carousel li.selected {
+  display: inline-block;
+}
+
+#carousel li.selected a {
+  display: inline-block;
+  width: 1080px;
+  height: 300px;
+}
+
+#carousel li.selected a img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
