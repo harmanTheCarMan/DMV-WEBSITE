@@ -1,0 +1,22 @@
+.lowerpage-mainlinks {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lowerpage-mainlinks div {
+  width: 50%;
+}
+
+.lowerpage-mainlinks a {
+  text-decoration: none;
+  color: black;
+}
+
+.lowerpage-mainlinks a:hover {
+  text-decoration: underline;
+}
+
+.lowerpage-mainlinks div > a {
+  font-weight: bold;
+}
